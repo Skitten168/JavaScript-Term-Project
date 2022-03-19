@@ -1,0 +1,10 @@
+ body{
+     background-image: url(../media/snakeBG.jpeg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     color: whitesmoke;
+ }
+ .para{
+     background-color: violet;
+     width: 75%;
+ }
